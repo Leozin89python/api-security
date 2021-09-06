@@ -1,0 +1,8 @@
+babel link: 
+https://blog.tecsinapse.com.br/utilizando-es6-no-node-js-com-babel-js-430346d68794
+
+base64 decode and encode link:
+https://www.base64decode.org/
+
+tutorial mongo:
+https://terminalroot.com.br/2020/02/mongodb.html

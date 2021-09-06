@@ -1,0 +1,23 @@
+/* em um terminal cmd */
+comando: mongod --storageEngine=mmapv1 --dbpath C:\data\db
+
+/* em outro terminal cmd */
+comando: mongo
+
+/* no banco mongo */
+comando:use appv1
+
+/* apoio */
+link: https://terminalroot.com.br/2020/02/mongodb.html
+
+
+/*comandos*/
+
+show dbs
+db
+use appv1
+db.users.find()
+db.users.find().pretty()
+
+
+
